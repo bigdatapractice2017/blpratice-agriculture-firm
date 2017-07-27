@@ -1,0 +1,51 @@
+,NAICS,SIC,公司名/CompanyName,公司规模/CompanySize,国家/Country,城市/City,年度税收规模/AnnualRevenue,电子邮件/Email,省份/Province,经营类别/BusinessType,联系人/ContactPerson,联系电话/Phone,详情链接/URL,邮寄地址/MailingAddress,邮政编码/ZIP
+0,112340 - Poultry Hatcheries,0254 - Poultry Hatcheries,Perdue Farms Inc,Large,US,Beaver Dam,High,none,"
+                                    Beaver Dam, KY                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/perdue-farms-inc-18,none,42320
+1,112990 - All Other Animal Production,"0291 - General Farms, Primarily Livestock",Murphy-Brown LLC,Large,US,Warsaw,High,none,"
+                                    Warsaw, NC                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/murphybrown-llc,none,28398
+2,112340 - Poultry Hatcheries,0254 - Poultry Hatcheries,Koch Foods,Large,US,Collinsville,Medium,none,"
+                                    Collinsville, AL                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/koch-foods-3,none,35961
+3,112990 - All Other Animal Production,"0291 - General Farms, Primarily Livestock",Flat Top Ranch,Large,US,Prescott,Medium,none,"
+                                    Prescott, WA                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/flat-top-ranch-3,none,99348
+4,112990 - All Other Animal Production,"0279 - Animal Specialties, Not Elsewhere Classified",Taconic Farms Inc,Large,US,Hudson,Medium,none,"
+                                    Hudson, NY                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/taconic-farms-inc,none,12534
+5,112112 - Cattle Feedlots,0211 - Beef Cattle Feedlots,PM Beef Holdings LLC,Large,US,Kansas City,Medium,none,"
+                                    Kansas City, MO                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/pm-beef-holdings-llc,none,64153
+6,112340 - Poultry Hatcheries,0254 - Poultry Hatcheries,Prestage Foods,Large,US,Saint Pauls,Medium,none,"
+                                    Saint Pauls, NC                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/prestage-foods,none,28384
+7,112120 - Dairy Cattle and Milk Production,0241 - Dairy Farms,Borden Milk Products,Large,US,Dallas,Medium,none,"
+                                    Dallas, TX                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/borden-milk-products,none,75215
+8,112112 - Cattle Feedlots,0211 - Beef Cattle Feedlots,Cactus Feeders,Large,US,Amarillo,Medium,none,"
+                                    Amarillo, TX                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/cactus-feeders,none,79106
+9,112210 - Hog and Pig Farming,0213 - Hogs,Joyner Daniels Hog Farm,Large,US,Goldsboro,Medium,none,"
+                                    Goldsboro, NC                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/joyner-daniels-hog-farm,none,27534
+10,112120 - Dairy Cattle and Milk Production,0241 - Dairy Farms,Braum's Dairy Farms,Large,US,Tuttle,Medium,none,"
+                                    Tuttle, OK                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/braums-dairy-farms-1,none,73089
+11,112340 - Poultry Hatcheries,0254 - Poultry Hatcheries,Foster Farms Poultry,Large,US,Fresno,High,none,"
+                                    Fresno, CA                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/foster-farms-poultry-1,none,93706
+12,112340 - Poultry Hatcheries,0254 - Poultry Hatcheries,Mountaire Corporations,Large,US,Selbyville,High,none,"
+                                    Selbyville, DE                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/mountaire-corporations,none,19975
+13,112340 - Poultry Hatcheries,0254 - Poultry Hatcheries,Cargill,Medium,US,California,Medium,none,"
+                                    California, MO                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/cargill-87,none,65018
+14,112340 - Poultry Hatcheries,0254 - Poultry Hatcheries,Cargill Meat Solutions,Medium,US,California,Medium,none,"
+                                    California, MO                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/cargill-meat-solutions-4,none,65018
+15,112990 - All Other Animal Production,"0291 - General Farms, Primarily Livestock",Sun Pacific,Medium,US,Exeter,Medium,none,"
+                                    Exeter, CA                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/sun-pacific-6,none,93221
+16,112340 - Poultry Hatcheries,0254 - Poultry Hatcheries,Georges Inc,Medium,US,Springdale,Medium,none,"
+                                    Springdale, AR                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/georges-inc-4,none,72764
+17,112340 - Poultry Hatcheries,0254 - Poultry Hatcheries,Cargill Turkey Products,Medium,US,California,Medium,none,"
+                                    California, MO                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/cargill-turkey-products-1,none,65018
+18,112210 - Hog and Pig Farming,0213 - Hogs,Nebraska Port Partners LLC,Medium,US,Columbus,Medium,none,"
+                                    Columbus, NE                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/nebraska-port-partners-llc,none,68601
+19,112120 - Dairy Cattle and Milk Production,0241 - Dairy Farms,Cabot Creamery Visitors Center,Medium,US,Waitsfield,Medium,none,"
+                                    Waitsfield, VT                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/cabot-creamery-visitors-center,none,05673
+20,112120 - Dairy Cattle and Milk Production,0241 - Dairy Farms,Guidas Dairy Co Inc,Medium,US,New Britain,Medium,none,"
+                                    New Britain, CT                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/guidas-dairy-co-inc-1,none,06051
+21,112990 - All Other Animal Production,"0291 - General Farms, Primarily Livestock",Pacific Berry Farms LLC,Medium,US,Moss Landing,Medium,none,"
+                                    Moss Landing, CA                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/pacific-berry-farms-llc,none,95039
+22,112990 - All Other Animal Production,"0291 - General Farms, Primarily Livestock",Schroeder-Manatee Ranch Inc,Medium,US,Sarasota,Medium,none,"
+                                    Sarasota, FL                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/schroedermanatee-ranch-inc-2,none,34240
+23,112990 - All Other Animal Production,"0291 - General Farms, Primarily Livestock",Rocking K Ranch,Medium,US,Philipsburg,Medium,none,"
+                                    Philipsburg, MT                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/rocking-k-ranch-1,none,59858
+24,112120 - Dairy Cattle and Milk Production,0241 - Dairy Farms,Columbia River Processing Inc,Medium,US,Boardman,Medium,none,"
+                                    Boardman, OR                                ","Agriculture, Forestry, Fishing and Hunting",none,none,http://siccode.com/en/business/columbia-river-processing-inc,none,97818
